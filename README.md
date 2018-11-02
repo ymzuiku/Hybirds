@@ -45,3 +45,6 @@ hybird.setBackground({
   alpha: 1,
 });
 ```
+Use create-react-app demo like this:
+
+![](.imgs/preview.jpg)
