@@ -48,7 +48,7 @@ hybird.setBackground({
 Use create-react-app demo like this:
 
 <p align="center">
-    <img src=".imgs/preview.jpg" alt="Sample"  width="250" >
+    <img src=".imgs/preview.jpg" alt="Sample"  width="300" >
     <p align="center">
         <em>demo</em>
     </p>
