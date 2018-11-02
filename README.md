@@ -8,7 +8,8 @@
 - [x] change statusBar style
 - [x] hidden/show statusBar
 - [x] change viewController backgroundColor
-- [x] change WKWebview URL
+- [x] change WKWebview URL from two finger touches 6 times
+- [x] change WKWebview URL to save local-data
 - [ ] load app-uuid
 - [ ] add ApplePay
 - [ ] set WKWebview Keyboard like native
