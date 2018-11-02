@@ -45,7 +45,7 @@ hybird.setBackground({
   alpha: 1,
 });
 ```
-Use create-react-app demo like this:
+Preview like this, webView margin top 600pd, and viewConroller background-color is 0xff8888:
 
 <p align="center">
     <img src=".imgs/preview.jpg" alt="Sample"  width="300" >
