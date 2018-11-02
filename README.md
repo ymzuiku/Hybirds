@@ -10,6 +10,8 @@
 - [x] change viewController backgroundColor
 - [x] change WKWebview URL from two finger touches 6 times
 - [x] change WKWebview URL to save local-data
+- [x] set allows backForward navigation gestures
+- [x] goBack from JS
 - [ ] load app-uuid
 - [ ] add ApplePay
 - [ ] set WKWebview Keyboard like native
