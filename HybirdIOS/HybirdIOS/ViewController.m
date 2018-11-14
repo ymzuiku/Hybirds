@@ -33,7 +33,7 @@
     if (lastUrl) {
         _url = lastUrl;
     } else {
-        _url = @"http://ccos.workos.top";
+        _url = @"http://127.0.0.1:3000";
     }
     [self.view addSubview:self.webView];
     [self webViewLoadUrl:_url isSaveLocal:true];
